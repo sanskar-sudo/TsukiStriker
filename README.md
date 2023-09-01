@@ -1,5 +1,5 @@
 # TsukiStriker
-#A python basec C2 Server.
+A python based C2 Server.
 
 
 
