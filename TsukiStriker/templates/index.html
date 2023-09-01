@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Home</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <style>
+        html {
+            background-image: url('https://images.hdqwalls.com/wallpapers/sasuke-uchiha-naruto-minimal-5k-x8.jpg'); /* Replace with your online image URL */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            height: 110%; /* Ensure background covers the full height of the viewport */
+        }
+
+        body {
+            margin: 0; /* Remove default margin */
+            padding: 0; /* Remove default padding */
+            color: white; /* Set text color to white */
+        }
+
+        .navbar {
+            background-color: black; /* Set navbar background color to black */
+        }
+
+        .navbar-item {
+            color: white; /* Set navbar item text color to white */
+        }
+
+        .title {
+            color: white; /* Set title text color to white */
+        }
+        /* Your existing styles here */
+
+        /* Add the following style to apply the techy font */
+        .techy-font {
+            font-family: 'Courier New', monospace; /* You can replace this with your preferred techy font */
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar has-shadow is-size-5">
+        <div class="navbar-menu">
+            <div class="navbar-start" id="nav-links">
+                <a href="{{ url_for('home') }}" class="navbar-item">Home</a>
+                <a href="{{ url_for('agents') }}" class="navbar-item">Agents</a>
+            </div>
+        </div>
+    </nav>
+
+    {% block content %}
+    <br>
+    <h1 class="title is-2 has-text-centered techy-font">TsukiStriker</h1>
+    {% endblock %}
+</body>
+</html>
