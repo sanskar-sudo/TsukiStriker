@@ -1,7 +1,6 @@
 
+![Logo](https://wpmanageninja.com/wp-content/uploads/2018/09/wpmanageninja_logo_icon-1-1.png)
 
-
-![Logo](https://www.logolynx.com/images/logolynx/8d/8de55832dc41f2b4d501f9aa8ca5a679.png)
 
 
 
