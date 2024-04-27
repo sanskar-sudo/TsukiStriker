@@ -1,0 +1,4 @@
+concurrent-futures
+flask
+pathlib
+pynput
