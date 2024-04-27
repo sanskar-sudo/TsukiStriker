@@ -26,7 +26,6 @@ A python based C2 Server.
 
 ## Installation
 
-Install my-project with npm
 
 ```bash
   git clone https://github.com/sanskar-sudo/TsukiStriker.git
