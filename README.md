@@ -13,8 +13,9 @@ A python based C2 Server.
 
 
 ## Demo
+https://github.com/sanskar-sudo/TsukiStriker/assets/129141264/2f7ce3a8-6ce0-4c46-93a3-8e39151b21dc
 
-Insert gif or link to demo
+
 
 
 ![Logo](https://imgs.search.brave.com/y8mfehYd-8E6wsq0-ovjtTzGq3coXWhETAXaiHYXus4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAxLzAzLzUyLzUw/LzM2MF9GXzEwMzUy/NTAzMl9XNDJUcHR1/V1VyeUp6VUhOU3ZR/eXhramVQUjdYaWRN/NC5qcGc)
